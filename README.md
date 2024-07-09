@@ -1,4 +1,4 @@
-# sql_coffee_shop_data_analyst_project
+# Coffee_Shop_Data_Analyst_Project
 This is a sql data analyst project 
 Analyzed coffee shop sales and customer data using SQL to optimize inventory.
 Improve customer experience, and increase revenue. Identified trends, streamlined operations,
